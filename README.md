@@ -1,5 +1,5 @@
 # hello-world
 Hello World Repo for CSET
 
-My name is Brandon Green. I am in my first year at Thaddeus Steven's College of Technology for Computer Software Engineering.
-This is my first repo.
+My name is Brandon Green and this is my first repo.
+I decided to redo this readme once again because I can.
